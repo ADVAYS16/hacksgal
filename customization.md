@@ -12,16 +12,16 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
+              <source srcset="![Alt text](images/2346.JPEG)" media="(min-width: 600px)">
               <img src="images/profile.png" alt="profile">
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Advay Shindikar</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                Sophomore at Del Norte High School. I have been coding for 2 years. My favorite sports team is Bayern Munich.
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://pages.github.com/ADVAYS16" class="button"></a>
             </div>
           </article>
         </main>
