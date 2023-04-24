@@ -19,7 +19,7 @@
               <p class="detail">Coding Profile</p>
                 <h1>Advay Shindikar</h1>
               <p>
-                Sophomore at Del Norte High School. I have been coding for 2 years. My favorite sports team is Bayern Munich.
+                Sophomore at Del Norte High School. I have been coding for 2 years and my favorite language is python. My favorite sports team is Bayern Munich.
               </p>
               <a href="https://pages.github.com/ADVAYS16" class="button"></a>
             </div>

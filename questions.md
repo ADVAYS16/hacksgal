@@ -6,7 +6,7 @@
     <body>
 <div class="index-header">
     <h1>Questions</h1>
-    <p>Questions based on each section of the Lesson</p>
+    <p>Questions based on each section of the Lesson: Advay Shindikar</p>
 </div>
 
 <!--Answer the QUESTIONS based on the lesson provided-->
